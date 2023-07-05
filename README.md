@@ -7,4 +7,14 @@ Input:
 Output
    simple interest = p*t*r
 
-   
+## Installation
+
+# Usage
+
+# Level one
+
+# Leve two
+
+```bash
+pip install foobar
+```
